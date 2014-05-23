@@ -3,3 +3,10 @@ It is available online at: https://github.com/richadams/java-gracenote
 The wrapper is licensed under the Creative Commons Attribution 3.0 Unported License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 I modified it to customize response parsing and better support unicode.
+
+Also uses the reference JSON implementation:
+
+JSON in Java [package org.json]
+
+Douglas Crockford
+douglas@crockford.com
