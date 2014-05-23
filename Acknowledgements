@@ -10,3 +10,7 @@ JSON in Java [package org.json]
 
 Douglas Crockford
 douglas@crockford.com
+
+Also depends on several Google libraries for YouTube playlist creation.
+This function is not quite ready and I have yet to clean up the mess of
+jar files. Hence these files are not included. //TODO: clean up jars, list reqs, and attribute clearly
